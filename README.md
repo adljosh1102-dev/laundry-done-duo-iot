@@ -37,6 +37,7 @@ Jumper Wires
 Arduino IDE  
 ESP32 WiFi libraries  
 C++ (Arduino framework)
+
 -------------------------------------------------- System Flow -------------------------------------------------------
 
 1. Washer or dryer begins running → accelerometer detects vibration.
